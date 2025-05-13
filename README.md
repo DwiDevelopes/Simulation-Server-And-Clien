@@ -20,7 +20,7 @@ Contoh client:
 
 ## Ilustrasi Server dan Client
 
-![Ilustrasi Server dan Client](https://csirt.bpbatam.go.id/storage/post-image/pSnnPDx0gB4Jhz2txvKfLQ2uqHj8M4hNEbQzhb7k.png)
+![Ilustrasi Server dan Client]([https://csirt.bpbatam.go.id/storage/post-image/pSnnPDx0gB4Jhz2txvKfLQ2uqHj8M4hNEbQzhb7k.png](https://lasernet.co.id/wp-content/uploads/2018/12/CISCO-Packet-Tracer.jpg))
 
 Pada gambar di atas, terlihat beberapa client (komputer) yang terhubung ke satu server melalui jaringan. Setiap client dapat berkomunikasi dengan server untuk meminta layanan atau data.
 
